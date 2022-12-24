@@ -1,0 +1,16 @@
+{
+    "name": "alixame/formulario-contato",
+    "description": "pacote de criacao de formulario de contato",
+    "authors": [
+        {
+            "name": "Lucas Alixame",
+            "email": "lucasali2003@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alixame\\formulario-contato\\": "src/"
+        }
+    }
+}
